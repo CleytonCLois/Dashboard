@@ -407,10 +407,7 @@ C:\Users\Marcelo\source\repos\TesteDashboard\TesteDashboard\Client\obj\Debug\net
 C:\Users\Marcelo\source\repos\TesteDashboard\TesteDashboard\Client\obj\Debug\net5.0\TesteDashboard.Client.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\Marcelo\source\repos\TesteDashboard\TesteDashboard\Client\obj\Debug\net5.0\TesteDashboard.Client.RazorComponent.input.cache
 C:\Users\Marcelo\source\repos\TesteDashboard\TesteDashboard\Client\obj\Debug\net5.0\RazorDeclaration\App.razor.g.cs
-C:\Users\Marcelo\source\repos\TesteDashboard\TesteDashboard\Client\obj\Debug\net5.0\RazorDeclaration\Pages\Counter.razor.g.cs
-C:\Users\Marcelo\source\repos\TesteDashboard\TesteDashboard\Client\obj\Debug\net5.0\RazorDeclaration\Pages\FetchData.razor.g.cs
 C:\Users\Marcelo\source\repos\TesteDashboard\TesteDashboard\Client\obj\Debug\net5.0\RazorDeclaration\Pages\Index.razor.g.cs
-C:\Users\Marcelo\source\repos\TesteDashboard\TesteDashboard\Client\obj\Debug\net5.0\RazorDeclaration\Shared\SurveyPrompt.razor.g.cs
 C:\Users\Marcelo\source\repos\TesteDashboard\TesteDashboard\Client\obj\Debug\net5.0\RazorDeclaration\_Imports.razor.g.cs
 C:\Users\Marcelo\source\repos\TesteDashboard\TesteDashboard\Client\obj\Debug\net5.0\RazorDeclaration\Shared\MainLayout.razor.g.cs
 C:\Users\Marcelo\source\repos\TesteDashboard\TesteDashboard\Client\obj\Debug\net5.0\RazorDeclaration\Shared\NavMenu.razor.g.cs
@@ -420,10 +417,7 @@ C:\Users\Marcelo\source\repos\TesteDashboard\TesteDashboard\Client\obj\Debug\net
 C:\Users\Marcelo\source\repos\TesteDashboard\TesteDashboard\Client\obj\Debug\net5.0\TesteDashboard.Client.TagHelpers.output.cache
 C:\Users\Marcelo\source\repos\TesteDashboard\TesteDashboard\Client\obj\Debug\net5.0\TesteDashboard.Client.RazorCoreGenerate.cache
 C:\Users\Marcelo\source\repos\TesteDashboard\TesteDashboard\Client\obj\Debug\net5.0\Razor\App.razor.g.cs
-C:\Users\Marcelo\source\repos\TesteDashboard\TesteDashboard\Client\obj\Debug\net5.0\Razor\Pages\Counter.razor.g.cs
-C:\Users\Marcelo\source\repos\TesteDashboard\TesteDashboard\Client\obj\Debug\net5.0\Razor\Pages\FetchData.razor.g.cs
 C:\Users\Marcelo\source\repos\TesteDashboard\TesteDashboard\Client\obj\Debug\net5.0\Razor\Pages\Index.razor.g.cs
-C:\Users\Marcelo\source\repos\TesteDashboard\TesteDashboard\Client\obj\Debug\net5.0\Razor\Shared\SurveyPrompt.razor.g.cs
 C:\Users\Marcelo\source\repos\TesteDashboard\TesteDashboard\Client\obj\Debug\net5.0\Razor\_Imports.razor.g.cs
 C:\Users\Marcelo\source\repos\TesteDashboard\TesteDashboard\Client\obj\Debug\net5.0\Razor\Shared\MainLayout.razor.g.cs
 C:\Users\Marcelo\source\repos\TesteDashboard\TesteDashboard\Client\obj\Debug\net5.0\Razor\Shared\NavMenu.razor.g.cs

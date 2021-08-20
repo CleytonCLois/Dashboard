@@ -100,9 +100,9 @@ using Radzen.Blazor;
         protected override void BuildRenderTree(Microsoft.AspNetCore.Components.Rendering.RenderTreeBuilder __builder)
         {
             __builder.AddMarkupContent(0, "<h1>Hello, world!</h1>\r\n\r\nWelcome to your new app.\r\n\r\n");
-            __builder.OpenComponent<TesteDashboard.Client.Shared.SurveyPrompt>(1);
+            __builder.OpenElement(1, "SurveyPrompt");
             __builder.AddAttribute(2, "Title", "How is Blazor working for you?");
-            __builder.CloseComponent();
+            __builder.CloseElement();
         }
         #pragma warning restore 1998
     }

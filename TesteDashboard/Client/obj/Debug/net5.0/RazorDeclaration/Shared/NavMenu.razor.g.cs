@@ -104,7 +104,7 @@ using Radzen.Blazor;
         }
         #pragma warning restore 1998
 #nullable restore
-#line 38 "C:\Users\Marcelo\source\repos\TesteDashboard\TesteDashboard\Client\Shared\NavMenu.razor"
+#line 18 "C:\Users\Marcelo\source\repos\TesteDashboard\TesteDashboard\Client\Shared\NavMenu.razor"
        
     private bool collapseNavMenu = true;
 

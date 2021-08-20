@@ -115,7 +115,6 @@ using TesteDashboard.Shared;
 #line 113 "C:\Users\Marcelo\source\repos\TesteDashboard\TesteDashboard\Client\Pages\Prefeituras.razor"
        
 
-
     GraficoBarra atualizados = new GraficoBarra();
     GraficoBarra atualizados24hrs = new GraficoBarra();
     GraficoBarra desatualizados = new GraficoBarra();
@@ -127,7 +126,6 @@ using TesteDashboard.Shared;
     List<GraficoBarra> prefeiturasDesatualizadas { get; set; }
     List<GraficoBarra> prefeiturasDesatualizadasMaisDeUmaSemana { get; set; }
     List<GraficoCircular> dadosGraficoCircular { get; set; }
-    //List<GraficoTeste> dadosGraficoTeste { get; set; }
 
     ISituacaoPrefeitura situacao;
     IEnumerable<Prefeitura> filtro;
@@ -153,7 +151,7 @@ using TesteDashboard.Shared;
         var url6 = "http://localhost:3000/dadosGraficoBarra";
         dadosGraficoCircular = await http.GetFromJsonAsync<List<GraficoCircular>>(url6);
 
-        var url7 = "http://localhost:3000/dadosGraficoTeste";
+        //var url7 = "http://localhost:3000/dadosGraficoTeste";
         //dadosGraficoTeste = await http.GetFromJsonAsync<List<GraifcoTeste>>(url6);
 
         filtro = prefeituras;
