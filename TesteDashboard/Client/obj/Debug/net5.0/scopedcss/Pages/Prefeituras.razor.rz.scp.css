@@ -1,0 +1,121 @@
+html[b-vk9zovceoc], body[b-vk9zovceoc] {
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+.grafico[b-vk9zovceoc] {
+    background-color: #E8E8E8;
+    border: 20px
+}
+
+.box[b-vk9zovceoc] {
+    box-model: border-box;
+    border: 15px solid transparent;
+    background-clip: padding-box;
+    border-radius: 20px;
+    background-color: #E8E8E8;
+}
+
+body[b-vk9zovceoc] {
+    margin-top: 20px;
+    background: #FAFAFA;
+}
+
+.order-card[b-vk9zovceoc] {
+    color: #fff;
+}
+
+.bg-c-blue[b-vk9zovceoc] {
+    background: linear-gradient(45deg,#4099ff,#73b4ff);
+}
+
+.bg-c-green[b-vk9zovceoc] {
+    background: linear-gradient(45deg,#2ed8b6,#59e0c5);
+}
+
+.bg-c-yellow[b-vk9zovceoc] {
+    background: linear-gradient(45deg,#FFB64D,#ffcb80);
+}
+
+.bg-c-pink[b-vk9zovceoc] {
+    background: linear-gradient(45deg,#FF5370,#ff869a);
+}
+
+.card[b-vk9zovceoc] {
+    border-radius: 5px;
+    -webkit-box-shadow: 0 1px 2.94px 0.06px rgba(4,26,55,0.16);
+    box-shadow: 0 1px 2.94px 0.06px rgba(4,26,55,0.16);
+    border: none;
+    margin-bottom: 30px;
+    -webkit-transition: all 0.3s ease-in-out;
+    transition: all 0.3s ease-in-out;
+}
+
+.card .card-block[b-vk9zovceoc] {
+    padding: 25px;
+}
+
+.order-card i[b-vk9zovceoc] {
+    font-size: 26px;
+}
+
+.f-left[b-vk9zovceoc] {
+    float: left;
+}
+
+.f-right[b-vk9zovceoc] {
+    float: right;
+}
+
+body[b-vk9zovceoc] {
+    margin-top: 20px;
+    background: #FAFAFA;
+}
+
+.order-card[b-vk9zovceoc] {
+    color: #fff;
+}
+
+.bg-c-blue[b-vk9zovceoc] {
+    background: linear-gradient(45deg,#4099ff,#73b4ff);
+}
+
+.bg-c-green[b-vk9zovceoc] {
+    background: linear-gradient(45deg,#2ed8b6,#59e0c5);
+}
+
+.bg-c-yellow[b-vk9zovceoc] {
+    background: linear-gradient(45deg,#FFB64D,#ffcb80);
+}
+
+.bg-c-pink[b-vk9zovceoc] {
+    background: linear-gradient(45deg,#FF5370,#ff869a);
+}
+
+.card[b-vk9zovceoc] {
+    border-radius: 5px;
+    -webkit-box-shadow: 0 1px 2.94px 0.06px rgba(4,26,55,0.16);
+    box-shadow: 0 1px 2.94px 0.06px rgba(4,26,55,0.16);
+    border: none;
+    margin-bottom: 30px;
+    -webkit-transition: all 0.3s ease-in-out;
+    transition: all 0.3s ease-in-out;
+}
+
+.card .card-block[b-vk9zovceoc] {
+    padding: 25px;
+}
+
+.order-card i[b-vk9zovceoc] {
+    font-size: 26px;
+}
+
+.f-left[b-vk9zovceoc] {
+    float: left;
+}
+
+.f-right[b-vk9zovceoc] {
+    float: right;
+}

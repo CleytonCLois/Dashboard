@@ -1,0 +1,12 @@
+C:\Users\Marcelo\source\repos\TesteDashboard\TesteDashboard\Shared\bin\Debug\net5.0\TesteDashboard.Shared.deps.json
+C:\Users\Marcelo\source\repos\TesteDashboard\TesteDashboard\Shared\bin\Debug\net5.0\TesteDashboard.Shared.dll
+C:\Users\Marcelo\source\repos\TesteDashboard\TesteDashboard\Shared\bin\Debug\net5.0\ref\TesteDashboard.Shared.dll
+C:\Users\Marcelo\source\repos\TesteDashboard\TesteDashboard\Shared\bin\Debug\net5.0\TesteDashboard.Shared.pdb
+C:\Users\Marcelo\source\repos\TesteDashboard\TesteDashboard\Shared\obj\Debug\net5.0\TesteDashboard.Shared.csproj.AssemblyReference.cache
+C:\Users\Marcelo\source\repos\TesteDashboard\TesteDashboard\Shared\obj\Debug\net5.0\TesteDashboard.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marcelo\source\repos\TesteDashboard\TesteDashboard\Shared\obj\Debug\net5.0\TesteDashboard.Shared.AssemblyInfoInputs.cache
+C:\Users\Marcelo\source\repos\TesteDashboard\TesteDashboard\Shared\obj\Debug\net5.0\TesteDashboard.Shared.AssemblyInfo.cs
+C:\Users\Marcelo\source\repos\TesteDashboard\TesteDashboard\Shared\obj\Debug\net5.0\TesteDashboard.Shared.csproj.CoreCompileInputs.cache
+C:\Users\Marcelo\source\repos\TesteDashboard\TesteDashboard\Shared\obj\Debug\net5.0\TesteDashboard.Shared.dll
+C:\Users\Marcelo\source\repos\TesteDashboard\TesteDashboard\Shared\obj\Debug\net5.0\ref\TesteDashboard.Shared.dll
+C:\Users\Marcelo\source\repos\TesteDashboard\TesteDashboard\Shared\obj\Debug\net5.0\TesteDashboard.Shared.pdb
