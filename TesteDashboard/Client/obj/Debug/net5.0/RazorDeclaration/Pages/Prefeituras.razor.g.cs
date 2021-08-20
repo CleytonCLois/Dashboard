@@ -103,7 +103,7 @@ using TesteDashboard.Shared;
 #line default
 #line hidden
 #nullable disable
-    [Microsoft.AspNetCore.Components.RouteAttribute("/Prefeituras")]
+    [Microsoft.AspNetCore.Components.RouteAttribute("/")]
     public partial class Prefeituras : Microsoft.AspNetCore.Components.ComponentBase
     {
         #pragma warning disable 1998

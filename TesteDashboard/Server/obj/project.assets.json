@@ -1934,6 +1934,7 @@
         "dependencies": {
           "Dapper": "2.0.90",
           "Microsoft.AspNetCore.Components.WebAssembly": "5.0.9",
+          "Microsoft.EntityFrameworkCore.SqlServer": "5.0.9",
           "Microsoft.Extensions.Http": "5.0.0",
           "MySql.Data": "8.0.26",
           "Radzen.Blazor": "3.9.2",
@@ -1953,6 +1954,7 @@
         "framework": ".NETCoreApp,Version=v5.0",
         "dependencies": {
           "Dapper": "2.0.90",
+          "Microsoft.EntityFrameworkCore.SqlServer": "5.0.9",
           "Microsoft.Extensions.Http": "5.0.0",
           "MySql.Data": "8.0.26",
           "Radzen.Blazor": "3.9.2"

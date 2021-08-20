@@ -1,6 +1,8 @@
-﻿@page "/Prefeituras"
+﻿@page "/"
 @inject HttpClient http
 @using TesteDashboard.Shared
+@using System.Configuration
+@using Microsoft.Data.SqlClient;
 
 @if (prefeituras == null)
 {
@@ -78,18 +80,18 @@ else
         <div class="col-md-12 box">
             <h1>GRÁFICO 03</h1>
             @*<RadzenChart>
-                <RadzenLineSeries Data="@dadosGraficoTeste" CategoryProperty="Date" LineType="LineType.Dashed" ValueProperty="Revenue">
-                    <RadzenMarkers MarkerType="MarkerType.Square" />
-                </RadzenLineSeries>
-                <RadzenLineSeries Data="@dadosGraficoTeste" CategoryProperty="Date" ValueProperty="Revenue">
-                    <RadzenMarkers MarkerType="MarkerType.Circle" />
-                </RadzenLineSeries>
-                <RadzenCategoryAxis Padding="20" FormatString="{0:MMM}" />
-                <RadzenValueAxis>
-                    <RadzenGridLines Visible="true" />
-                    <RadzenAxisTitle Text="Revenue in USD" />
-                </RadzenValueAxis>
-            </RadzenChart>*@
+                    <RadzenLineSeries Data="@dadosGraficoTeste" CategoryProperty="Date" LineType="LineType.Dashed" ValueProperty="Revenue">
+                        <RadzenMarkers MarkerType="MarkerType.Square" />
+                    </RadzenLineSeries>
+                    <RadzenLineSeries Data="@dadosGraficoTeste" CategoryProperty="Date" ValueProperty="Revenue">
+                        <RadzenMarkers MarkerType="MarkerType.Circle" />
+                    </RadzenLineSeries>
+                    <RadzenCategoryAxis Padding="20" FormatString="{0:MMM}" />
+                    <RadzenValueAxis>
+                        <RadzenGridLines Visible="true" />
+                        <RadzenAxisTitle Text="Revenue in USD" />
+                    </RadzenValueAxis>
+                </RadzenChart>*@
         </div>
     </div>
 
@@ -126,6 +128,20 @@ else
 
     ISituacaoPrefeitura situacao;
     IEnumerable<Prefeitura> filtro;
+
+    public string ConnectionString = ConfigurationManager.ConnectionStrings["server=ADSIS-01-SQL; database=ADM_SAATRI; uid=saatri; pwd=nfe3464241A; Pooling=true; Min Pool Size=10; Max Pool Size=100; Connect Timeout=60"].ToString();
+
+    //public List<GraficoBarra> GetProducts()
+    //{
+    //    List<GraficoBarra> products = new List<GraficoBarra>();
+    //    using (var sqlConnection = new SqlConnection(ConnectionString))
+    //    {
+    //        var result = sqlConnection.Query<GraficoBarra>("Select * from Product");
+    //        foreach (GraficoBarra product in result)
+    //            products.Add(product);
+    //    }
+    //    return products;
+    //}
 
     protected override async Task OnInitializedAsync()
     {
